@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Flake it till you make it
+title: 토픽 고급 6급 따는법
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+cover-img: ![image](https://github.com/ariunaa04255/ariunaa04255.github.io/assets/149742179/b1367da3-1a40-405a-acd8-43b0651c2145)
+
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
-author: Sharon Smith and Barry Simpson
+author: 아리
 ---
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
