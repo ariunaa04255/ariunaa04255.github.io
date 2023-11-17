@@ -4,7 +4,7 @@ title: 토픽 고급 6급 따는법
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: ![image](https://github.com/ariunaa04255/ariunaa04255.github.io/assets/149742179/b1367da3-1a40-405a-acd8-43b0651c2145)
 
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/6.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 author: 아리
