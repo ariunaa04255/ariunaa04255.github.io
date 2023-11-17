@@ -10,10 +10,15 @@ tags: [books, test]
 author: 아리
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
-
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
-
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
-
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+급수에 대한 설명으로는
+1유형과 2유형이 있는데
+1유형은 1급~2급 정도의 능력을 테스트하는 것이
+고
+2유형은 3급~6급 정도의 능력을 평가하는 시험입 니다!
+1유형은 읽기 40문항과 듣기 30문항으로 구성이 되 어 있고
+2유형은 읽기 50문항과 듣기 50문항 쓰기 4문항으 로 구성이 되어 있습니다:)
+토픽 1 유형의 만점은 200점이고
+3유형의 만점 300점입니다.
+이 후 급수 책정으로는
+1급은 80점 이상, 2급은 140점 이상, 3급 120점 이 상, 4급 150점 이상
+5급 190점 이상, 6급 230점 이상의 점수를 취득합니다.
