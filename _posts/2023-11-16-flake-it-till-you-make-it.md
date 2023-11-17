@@ -5,7 +5,7 @@ subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: assets/img/6.jpg
 
 thumbnail-img: /assets/img/6.jpg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/6.jpg
 tags: [books, test]
 author: 아리
 ---
