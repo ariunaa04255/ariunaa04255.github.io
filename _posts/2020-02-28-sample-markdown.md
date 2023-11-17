@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
+title: 한국어 말하기 잘하는법
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
-author: Bill Smith
+author: 아리
 ---
 
 {: .box-success}
