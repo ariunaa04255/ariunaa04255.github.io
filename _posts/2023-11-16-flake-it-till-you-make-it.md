@@ -2,7 +2,7 @@
 layout: post
 title: 토픽 고급 6급 따는법
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: ![image](https://github.com/ariunaa04255/ariunaa04255.github.io/assets/img/6.png)
+cover-img: assets/img/6.png
 
 thumbnail-img: /assets/img/6.png
 share-img: /assets/img/path.jpg
